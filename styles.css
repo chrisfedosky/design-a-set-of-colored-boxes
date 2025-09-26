@@ -5,24 +5,28 @@ body {
 .color-box {
     width: 200px;
     height: 200px;
+    border: 2px solid black;
+    display: inline-block;
+    margin: 20px;
+    border-radius: 10px;
 }
 
 .color1 {
-    background-color: #9c2e2e;
+    background-color: #f38807;
 }
 
 .color2 {
- background-color: rgb(127, 34, 241);
+ background-color: rgb(7, 243, 19);
 }
 
 .color3 {
-    background-color: aquamarine;
+    background-color: hsl(213, 94%, 49%);
 }
 
 .color4 {
-    background-color: hsl(169, 59%, 31%);
+    background-color: #F307E8;
 }
 
 .color5 {
-    background-color: rgba(152, 11, 115, 0.727);
+    background-color: rgb(136, 7, 243);
 }
